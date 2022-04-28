@@ -1,15 +1,15 @@
 ---
 settings:
   name: Astra Trident
-  platform: ''
   internal:
     pdf_enabled: true
   prod:
     pdf_enabled: true
     harmony_enabled: true
+    langs: us-en,ja-jp,zh-cn
 sidebar:
   entries:
-    - title: Astra Trident docs
+    - title: Astra Trident documentation
       url: /index.html
     - title: Release notes
       url: /trident-rn.html
@@ -30,9 +30,7 @@ sidebar:
       url: /earlier-versions.html
     - title: Legal notices
       url: /legal.html
-product-family:
-  name: Astra
-  repo: astra-family
+
 homepage:
   tiles:
     - title: Get started
