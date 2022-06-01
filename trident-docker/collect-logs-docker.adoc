@@ -5,7 +5,7 @@ keywords: deploy, astra trident, trident for docker, docker, logs, binary, manag
 summary: You can collect logs for help with troubleshooting. The method you use to collect the logs varies based on how you are running the Docker plugin.
 ---
 
-= Collect logs
+== Collect logs
 :hardbreaks:
 :icons: font
 :imagesdir: ../media/
