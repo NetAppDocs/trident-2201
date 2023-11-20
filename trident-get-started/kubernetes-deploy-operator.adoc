@@ -76,7 +76,7 @@ Perform the steps listed to manually deploy the Trident operator.
 
 === Step 1: Qualify your Kubernetes cluster
 
-The first thing you need to do is log in to the Linux host and verify that it is managing a _working_, link:requirements.html[supported Kubernetes cluster^] that you have the necessary privileges to.
+The first thing you need to do is log in to the Linux host and verify that it is managing a _working_, link:../trident-get-started/requirements.html[supported Kubernetes cluster^] that you have the necessary privileges to.
 
 NOTE: With OpenShift, use `oc` instead of `kubectl` in all of the examples that follow, and log in as *system:admin* first by running `oc login -u system:admin` or `oc login -u kube-admin`.
 
