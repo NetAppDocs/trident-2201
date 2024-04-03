@@ -7,6 +7,7 @@ settings:
   prod:
     pdf_enabled: true
     harmony_enabled: true
+  downlevel: true
   versions:
     - version-number: "22.01"
       url: /trident-2201      
